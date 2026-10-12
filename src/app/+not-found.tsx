@@ -23,12 +23,12 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
     padding: 20,
-    backgroundColor: '#25292e',
+    backgroundColor: '#d715e9',
   },
   title: {
     fontSize: 20,
     fontWeight: 'bold',
-    color: '#fff',
+    color: '#f80000',
   },
   link: {
     marginTop: 15,
@@ -36,6 +36,6 @@ const styles = StyleSheet.create({
   },
   linkText: {
     fontSize: 14,
-    color: '#ffd33d',
+    color: '#ff3dc5',
   },
 });

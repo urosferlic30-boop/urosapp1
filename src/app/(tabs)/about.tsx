@@ -11,8 +11,8 @@ export default function AboutScreen() {
       <View style={styles.infoBox}>
         <Text style={styles.infoTitle}>O meni:</Text>
         <Text style={styles.infoText}>
-          Sem Uroš Ferlič, star sem 16 let in sem avtor te aplikacije. Obiskujem 3. letnik računalniške šole v Velenju, kjer pridobivam znanje s področja računalništva in programiranja.{"\n\n"}
-          V prostem času zelo rad igram nogomet, zato sem se odločil, da v svoji aplikaciji predstavim prav FIFA, saj je to moja najljubša igra. Nogomet mi je zelo pri srcu in uživam tako v igranju kot tudi v spremljanju nogometnega sveta.{"\n\n"}
+          Sem Uroš Ferlic, star sem 16 let in sem avtor te aplikacije. Obiskujem 3. letnik računalniške šole v Velenju, kjer pridobivam znanje s področja računalništva in programiranja.{"\n\n"}
+          V prostem času zelo rad igram nogomet, zato sem se odločil, da v svoji aplikaciji predstavim prav FIFO, saj je to moja najljubša igra. Nogomet mi je zelo pri srcu in uživam tako v igranju kot tudi v spremljanju nogometnega sveta.{"\n\n"}
           Poleg nogometa se rad družim s prijatelji, z njimi preživljam prosti čas in se zabavam. Rad tudi gledam resničnostne šove, saj so mi zanimivi zaradi različnih zgodb, tekmovanj in osebnosti, ki nastopajo v njih.{"\n\n"}
           S to aplikacijo sem želel združiti svoje znanje računalništva z eno izmed stvari, ki jih imam najraje – nogometom in igro FIFA.
         </Text>
@@ -34,7 +34,7 @@ const styles = StyleSheet.create({
   name: {
     fontSize: 28,
     fontWeight: 'bold',
-    color: '#ffd33d',
+    color: '#3dffef',
     marginBottom: 5,
   },
   role: {
@@ -43,7 +43,7 @@ const styles = StyleSheet.create({
     marginBottom: 20,
   },
   infoBox: {
-    backgroundColor: '#1b1d20',
+    backgroundColor: 'z#110000',
     padding: 20,
     borderRadius: 12,
     width: '100%',
@@ -52,7 +52,7 @@ const styles = StyleSheet.create({
   infoTitle: {
     fontSize: 18,
     fontWeight: 'bold',
-    color: '#ffd33d',
+    color: '#3dffe5',
     marginBottom: 10,
   },
   infoText: {

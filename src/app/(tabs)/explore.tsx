@@ -15,6 +15,13 @@ export default function ExploreScreen() {
         FIFA (zdaj znana kot EA Sports FC) je vodilna športna
         videoigra na svetu, ki igralcem omogoča vodenje svojih
         najljubših nogometnih ekip in igralcev z uradnimi licencami.
+        V igri lahko igraš z svojimi najljubšimi klubi, tekmuješ v različnih ligah in turnirjih ter se preiskusiš prot igralci iz celega sveta. Igra je znana po svoji realistični grafiki, natančni simulaciji nogometnih pravil in dinamičnem načinu igranja.
+        Omogoča tudi igranje proti svojim prijateljem v lokalnem ali spletnem načinu, kar povečuje njeno privlačnost in zabavo.
+        V igri je zelo veliko različnih igralcev in ekip, kar omogoča igralcem, da sestavijo svoje sanjske ekipe in se pomerijo proti najboljšim na svetu.
+        Vsako leto FIFA prinaša nove funkcionalnosti, izboljšave in posodobitve, ki ohranjajo igro svežo in zanimivo za igralce vseh starosti. Ponavadi pa izzide meseca septembra, zdaj je vzunaj že različica EA Sports FC 27, ki omogoča čisto novo funkcijo open world, kjer lahko raziskuješ različne lokacije in se udeležuješ različnih izzivov. Cena igre se giblje okoli 60 evrov, odvisno od različice in platforme, na kateri jo kupite.
+        Stane okrog 60 evrov, odvisno od različice in platforme, na kateri jo kupite.
+      
+
       </Text>
 
       <Image source={FifaImage3} style={styles.image} />
